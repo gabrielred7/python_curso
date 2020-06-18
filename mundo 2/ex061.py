@@ -1,0 +1,1 @@
+#Progressão aritmética v2.0

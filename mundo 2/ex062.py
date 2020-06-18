@@ -1,0 +1,1 @@
+#Super progressão aritmetica v3.0
