@@ -18,7 +18,7 @@ while True:
         homens = homens + 1
     if sexo in "Ff" and idade < 20:
         mulheres = mulheres + 1
-    if continua in "Nn":
+    if continua[0] in "Nn":
         break
 print(f"Total de pessoas com mais de 18 anos: {maiores}")
 print(f"Ao todo temos {homens} homens cadastrados")
